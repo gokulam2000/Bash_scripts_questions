@@ -51,3 +51,4 @@
 26 - Develop a Bash script that checks if a network interface (e.g., "enp0s3") is up and running. If it's up, print "Interface is up"; otherwise, print "Interface is down."
 
 27 - Write a Bash script that checks the current user's home directory. If it's located in "/home", print "Home directory standard"; if it's located elsewhere, print "Home directory non-standard."
+-----------
